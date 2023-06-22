@@ -1,4 +1,4 @@
 # Drum-kit
-using HTML, CSS ,javascript
+using HTML, CSS and javascript
 played music when press key 
 sound of that key automaticallhy come
